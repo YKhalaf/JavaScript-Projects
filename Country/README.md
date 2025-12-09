@@ -32,10 +32,10 @@ A JavaScript web application that automatically detects your country based on yo
 ---
 
 ## 📂 Project Structure
+├── 📄 index.html      # Main HTML file
+├── 📄 script.js       # JavaScript logic (fetching APIs, rendering countries)
+├── 🎨 style.css       # App styling
+└── 📘 README.md       # Documentation
 
--**├── 📄 index.html        # Main HTML file**
--**├── 📄 script.js         # JavaScript logic (fetching APIs, rendering countries)**
--**├── 🎨 style.css         # App styling**
--**└── 📘 README.md         # Documentation**
 
 
